@@ -1,17 +1,18 @@
-# Hello, World! I'm Javier Munoz
+# Hello, World!
 
-## Self taught iOS developer
-- Currently working towards landing my first job as an iOS developer.
-- Love to research and learn anything mobile development related.
-- Always excited about new technology
-- Hobbies include playing games and baseball (Go Braves!)
+My name is Javier. I'm 22 years old living outside Atlanta, GA.
 
-## Languages & Frameworks:
-- Swift
-- UIKit
-- SwiftUI
+## About me:
+I am a self-taught iOS developer on the road to landing my first job. While I may lack the professional experience,
 
-## Connect
-- [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+## Languages & Tools:
+Swift | UIKit | SwiftUI 
+Firebase | RealmsDB
 
-[linkedin]: https://www.linkedin.com/in/0xjavier/
+## Interest & Activities:
+Airsoft/Paintball | Baseball | Braves
+
+## Lets Connect:
+Email: 0xJMunoz@gmail.com
+
+Linkedin: https://www.linkedin.com/in/0xjavier
